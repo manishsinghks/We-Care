@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Logs
+error_log
+*.log
+
+# Environment / secrets
+.env
+*.env
